@@ -36,7 +36,7 @@ The PCB has dimensions of 32mmx82mm:
 
 ![](stepup_3d.png)
 
-The schematic [available as PDF here](schematics.pdf) is following the reference design:
+The schematic [available as PDF here](schematics/stepup.pdf) is following the reference design:
 
 ![](schematics.svg)
 
